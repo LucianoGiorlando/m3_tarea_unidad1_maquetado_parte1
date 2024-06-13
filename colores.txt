@@ -1,0 +1,7 @@
+Colores
+
+- bg-color-body: #191919
+- bg-color-header: #111111
+- text-color-primary: #F5F5F5
+- text-color-secundary: #85B09A
+- bg-color-footer: #111111
